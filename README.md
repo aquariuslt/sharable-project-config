@@ -1,7 +1,17 @@
-# My Sharable ESLint Config
+# My Sharable Project Config
 
 > No need to publish as `plugin`/`config` packages
+> 
+> No need incubator way.. 
+>
 > Only personal style
+
+
+Including below categories
+
+- eslint
+- prettier
+- renovate
 
 
 
