@@ -7,7 +7,7 @@
       "automerge": true
     },
     {
-      "depTypeList": ["devDependencies"],
+      "depTypeList": ["devDependencies", "dependencies"],
       "automerge": true
     }
   ],
