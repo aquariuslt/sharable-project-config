@@ -12,7 +12,7 @@ Including below categories
 - eslint
 - prettier
 - renovate
-
+- jest
 
 
 ## DevDependencies
