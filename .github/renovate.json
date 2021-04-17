@@ -1,6 +1,6 @@
 {
   "semanticCommits": "enabled",
-  "schedule": ["every day"],
+  "schedule": ["after 10pm and before 5:00am"],
   "packageRules": [
     {
       "updateTypes": ["minor", "patch", "pin", "digest"],
