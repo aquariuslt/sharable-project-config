@@ -17,7 +17,7 @@
     "eslint": "7.32.0",
     "eslint-config-prettier": "8.3.0",
     "jest": "27.4.3",
-    "prettier": "2.5.0",
+    "prettier": "2.5.1",
     "ts-jest": "27.0.7",
     "ts-loader": "9.2.6",
     "ts-node": "10.4.0",
